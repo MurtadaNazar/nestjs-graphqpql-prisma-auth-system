@@ -1,0 +1,1 @@
+{"version":3,"file":"newTokensResponse.js","sourceRoot":"","sources":["../../../src/auth/dto/newTokensResponse.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAAoD;AAG7C,IAAM,iBAAiB,GAAvB,MAAM,iBAAiB;CAM7B,CAAA;AANY,8CAAiB;AAE5B;IADC,IAAA,eAAK,GAAE;;sDACY;AAGpB;IADC,IAAA,eAAK,GAAE;;uDACa;4BALV,iBAAiB;IAD7B,IAAA,oBAAU,GAAE;GACA,iBAAiB,CAM7B"}
